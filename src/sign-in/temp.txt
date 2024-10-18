@@ -1,0 +1,911 @@
+[
+  {
+    "groups": [
+      {
+        "description": "Long  description of Population here",
+        "label": "Population",
+        "shortDescription": "Short description of Population here",
+        "visualizations": [
+          {
+            "id": "ppF48sTKccN",
+            "span": 1,
+            "type": "MAP"
+          },
+          {
+            "id": "pZchgaCr7Vh",
+            "span": 1,
+            "type": "CHART"
+          },
+          {
+            "id": "HfCTNm6GXLI",
+            "span": 1,
+            "type": "CHART"
+          },
+          {
+            "id": "iUm8D7jY2oW",
+            "span": 1,
+            "type": "REPORT_TABLE"
+          }
+        ]
+      }
+    ],
+    "id": "population",
+    "title": "Population Dashboard"
+  },
+  {
+    "groups": [
+      {
+        "description": "These charts assess the coverage or utilization of antenatal care services at different stages of pregnancy, such as the first visit and subsequent visits, among the expected population.",
+        "label": "Antenatal Care(ANC)",
+        "shortDescription": "These charts assess the coverage or utilization of antenatal care services at different stages of pregnancy",
+        "subGroups": [
+          {
+            "label": "ANC 1st Visit coverage",
+            "visualizations": [
+              {
+                "id": "Z3RhEkbAXR2",
+                "span": 6,
+                "type": "MAP"
+              },
+              {
+                "id": "mzEpCaBUsAB",
+                "span": 6,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "ANC 1st Visit before 12 weeks coverage among expected",
+            "visualizations": [
+              {
+                "id": "FOywIsIthy3",
+                "span": 6,
+                "type": "MAP"
+              },
+              {
+                "id": "H7QSiygSR58",
+                "span": 6,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "ANC 4th Plus coverage",
+            "visualizations": [
+              {
+                "id": "jGRRReGV8eE",
+                "span": 6,
+                "type": "MAP"
+              },
+              {
+                "id": "rldAsjnTwlf",
+                "span": 6,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These charts assess the percentage of births occurring in medical facilities, indicating access to professional maternal care.",
+        "label": "L&D",
+        "shortDescription": "These charts assess the percentage of births occurring in medical facilities, indicating access to professional maternal care.",
+        "subGroups": [
+          {
+            "label": "Institutional delivery coverage",
+            "visualizations": [
+              {
+                "id": "hOZPKVMWH7v",
+                "span": 6,
+                "type": "MAP"
+              },
+              {
+                "id": "KQJUP21uUoN",
+                "span": 6,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These charts assess the extent to which individuals or populations have access to and utilize contraceptive methods for family planning purposes",
+        "label": "Family Planning(FP)",
+        "shortDescription": "These charts assess the extent to which individuals or populations have access to and utilize contraceptive methods for family planning purposes",
+        "subGroups": [
+          {
+            "label": "Contraceptive Coverage",
+            "visualizations": [
+              {
+                "id": "y956nPjHxCj",
+                "span": 6,
+                "type": "CHART"
+              },
+              {
+                "id": "iE45ZApStTB",
+                "span": 6,
+                "type": "REPORT_TABLE"
+              },
+              {
+                "id": "DraIccwL9Mo",
+                "span": 12,
+                "type": "MAP"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These indicators assess various aspects related to Gender-Based Violence and Violence Against Children (GBV/VAC) in the context of HIV testing, sexual assault, physical assault, and disability outcomes.",
+        "label": "GBV",
+        "shortDescription": "These indicators assess various aspects related to Gender-Based Violence and Violence Against Children (GBV/VAC) in the context of HIV testing, sexual assault, physical assault, and disability outcomes.",
+        "subGroups": [
+          {
+            "label": "Percentage of GBV/VAC client tested for HIV ",
+            "visualizations": [
+              {
+                "id": "i8XueltnSrh",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Percentage of Female GBV/VAC sexually assaulted among all females ",
+            "visualizations": [
+              {
+                "id": "AXwqt776ucK",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Percentage of females GBV/VAC physically assaulted among all females ",
+            "visualizations": [
+              {
+                "id": "o7vLFExBdEp",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Percentage of GBV sexually assaulted clients amongst all clients",
+            "visualizations": [
+              {
+                "id": "Ds7Oxc9adwm",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": " % waliopata ulemavu wa kimwili was kudumu baada ya kufanyiwa ukatili wa kijinsia(GBV/VAC)",
+            "visualizations": [
+              {
+                "id": "P7NUScZDq6Z",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These charts assess various aspects of vaccination and disease surveillance among children under one year of age",
+        "label": "IVD",
+        "shortDescription": "These charts assess various aspects of vaccination and disease surveillance among children under one year of age",
+        "subGroups": [
+          {
+            "label": "BCG < 1Yrs coverage",
+            "visualizations": [
+              {
+                "id": "MSNM9R1vKY3",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "OPV 0 < 1Yrs coverage",
+            "visualizations": [
+              {
+                "id": "FmOawE8KmWI",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "MR < 1Yrs coverage",
+            "visualizations": [
+              {
+                "id": "whhrq17XZNO",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "BCG to Measles Dropout Rate",
+            "visualizations": [
+              {
+                "id": "lNM5VwOsXPo",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "IVD Proportional of reported Acute Flaccid Paralysis(Non-polio) cases",
+            "visualizations": [
+              {
+                "id": "YXlgBJ538GZ",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These visualizations assesses the proportion of clients enrolled in antiretroviral therapy (ART) programs for HIV/AIDS who have transitioned to second-line treatment regimens",
+        "label": "CTC",
+        "shortDescription": "These visualizations assesses the proportion of clients enrolled in antiretroviral therapy (ART) programs for HIV/AIDS who have transitioned to second-line treatment regimens",
+        "subGroups": [
+          {
+            "label": "Percentage of client on secondary line treatment( on ART Vs % 2nd line treatment)",
+            "visualizations": [
+              {
+                "id": "cbBZuc9YU1O",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These visualizations provide insights into the prevalence of specific eye health conditions and treatments within healthcare services",
+        "label": "EYE",
+        "shortDescription": "These visualizations provide insights into the prevalence of specific eye health conditions and treatments within healthcare services",
+        "subGroups": [
+          {
+            "label": "Proportional of clients with blindness among eye OPD attendance",
+            "visualizations": [
+              {
+                "id": "iuQp2E4HGnB",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of New Eye Patients disaggregated by age and sex",
+            "visualizations": [
+              {
+                "id": "YzDkmbGDiEv",
+                "span": 6,
+                "type": "CHART"
+              },
+              {
+                "id": "CUUJbivcIzU",
+                "span": 6,
+                "type": "REPORT_TABLE"
+              }
+            ]
+          },
+          {
+            "label": "Cataract Surgical Rate",
+            "visualizations": [
+              {
+                "id": "zCbkzmKFYuP",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "These charts provide insights into the prevalence of specific oral health conditions and treatments within healthcare services",
+        "label": "Oral Health",
+        "shortDescription": "These charts provide insights into the prevalence of specific oral health conditions and treatments within healthcare services",
+        "subGroups": [
+          {
+            "label": "Proportional of clients with periodontal disease",
+            "visualizations": [
+              {
+                "id": "E1kLc7sSBXW",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportional of client with dental caries",
+            "visualizations": [
+              {
+                "id": "VaK5zN3NOT3",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportional of client with dental abscess",
+            "visualizations": [
+              {
+                "id": "vu4tQ4nQQwl",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportional of patient with sustained oral facial injuries",
+            "visualizations": [
+              {
+                "id": "jIHtNSOdE0f",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportional of client with tumour in oralficial regions",
+            "visualizations": [
+              {
+                "id": "a2kpbdEztFA",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "coverage",
+    "title": "Coverage of Interventions"
+  },
+  {
+    "groups": [
+      {
+        "description": "HIV",
+        "highlights": [
+          {
+            "data": [
+              {
+                "id": "OwRJbI5tub5",
+                "percentage": false
+              },
+              {
+                "id": "uak4LyAFfCc",
+                "percentage": true
+              },
+              {
+                "id": "o3PJzN6gEcM",
+                "percentage": true
+              }
+            ],
+            "label": "HIV Status",
+            "span": 12,
+            "type": "BANNER"
+          }
+        ],
+        "label": "HIV",
+        "subGroups": [
+          {
+            "description": "Long  description of HTS here",
+            "label": "HTS",
+            "shortDescription": "Short description of HTS here",
+            "visualizations": [
+              {
+                "id": "gyWhdq9BCj8",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "KjCSuyon5xN",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "BLNWQtCtzvR",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of CTC here",
+            "label": "CTC",
+            "shortDescription": "Short description of CTC here",
+            "visualizations": [
+              {
+                "id": "Mqu7sCj1gDa",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "n3OntafQgHB",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of VMMC here",
+            "label": "VMMC",
+            "shortDescription": "Short description of VMMC here",
+            "visualizations": [
+              {
+                "id": "xfNbsAjUKer",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of PMTCT here",
+            "label": "PMTCT",
+            "shortDescription": "Short description of PMTCT here",
+            "visualizations": [
+              {
+                "id": "x2BGRDd8tN2",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "FzPiUkwhGH6",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of 95-95-95 cascade here",
+            "label": "95-95-95 cascade",
+            "shortDescription": "Short description of 95-95-95 cascade here",
+            "visualizations": [
+              {
+                "id": "HPVIqozszGS",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "MRYXRHDj1mg",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "Nmaooo3OGmO",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "qRzieIUcCsn",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "bUFIzmDEjJS",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "vdWCnELdKAr",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "RCH",
+        "label": "RCH",
+        "subGroups": [
+          {
+            "description": "Long  description of ANC here",
+            "label": "Antenatal Care(ANC)",
+            "shortDescription": "Short description of ANC here",
+            "visualizations": [
+              {
+                "id": "psERkA18hnq",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "vUgObjgJQl3",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "wG9Mp4MR837",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "TeOVZvdGIbz",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "EDGZH7WMd9N",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "TeanJ2j1OWk",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "TZnB4QXByeW",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "I6INROoHv7e",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of Labour and Delivery here",
+            "label": "Labour and Delivery",
+            "shortDescription": "Short description of Labour and Delivery here",
+            "visualizations": [
+              {
+                "id": "HxPhAWXWEhS",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "YEFtyUgHYO7",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "description": "Long  description of PNC here",
+            "label": "PNC",
+            "shortDescription": "Short description of PNC here",
+            "visualizations": [
+              {
+                "id": "osZKEAeWRry",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "MlQH5aAsrcQ",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "z6gNQePxJ3s",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "EPI",
+        "label": "EPI",
+        "subGroups": [
+          {
+            "description": "Long  description of IVD here",
+            "label": "IVD",
+            "shortDescription": "Short description of IVD here",
+            "visualizations": [
+              {
+                "id": "lNM5VwOsXPo",
+                "span": 12,
+                "type": "CHART"
+              },
+              {
+                "id": "YXlgBJ538GZ",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Long  description of TB here",
+        "label": "TB",
+        "shortDescription": "Short description of PMTCT here",
+        "subGroups": [
+          {
+            "label": "TB-Not: No. of All Cases referred from Community",
+            "visualizations": [
+              {
+                "id": "AYVVn90wA38",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "TB: % of cases diagnosed by GeneXpert( Bact. confirmed) Last 4 quarters",
+            "visualizations": [
+              {
+                "id": "oorGyqNkKqW",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "DR-TB: Number of DR-TB cases enrolled on second line drug treatment for DR-TB Register",
+            "visualizations": [
+              {
+                "id": "bpRnA2n3TXM",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "LEP: All cases registered on Last 4 quarters",
+            "visualizations": [
+              {
+                "id": "yiiHhSQGov6",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "TB: All TB & LEP cases on children < 15yrs Last 4 quarters",
+            "visualizations": [
+              {
+                "id": "BMzs7TgQ3DU",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "TB: All cases notified last quarter disaggregated by Regions",
+            "visualizations": [
+              {
+                "id": "pzYQ77mayB7",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "TB: % of HIV positive cases on ART Last 4 Quarters",
+            "visualizations": [
+              {
+                "id": "dXkcbupsecD",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "TB: % of HIV positive cases on ART disaggregated by Regions",
+            "visualizations": [
+              {
+                "id": "n8b74nN7dHM",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Long  description of EYE here",
+        "label": "EYE",
+        "shortDescription": "Short description of EYE here",
+        "subGroups": [
+          {
+            "label": "Proportional of clients with visual impairment including blindness",
+            "visualizations": [
+              {
+                "id": "BAyj7M8mUW2",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "performance",
+    "title": "Performance Indicators"
+  },
+  {
+    "groups": [
+      {
+        "description": "Long  description of Malaria here",
+        "label": "Malaria",
+        "shortDescription": "Short description of Malaria here",
+        "subGroups": [
+          {
+            "label": "Malaria positivity rate among pregnant women during ANC visit",
+            "visualizations": [
+              {
+                "id": "zPRGyAvmmdj",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of infants receiving LLINs during measles/rubella immunization",
+            "visualizations": [
+              {
+                "id": "tOP2lPx2oRH",
+                "span": 2,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of women receiving LLINs during ANC attendances",
+            "visualizations": [
+              {
+                "id": "b8qqo5AjjYq",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "ANC malaria testing and positivity rate",
+            "visualizations": [
+              {
+                "id": "xSIc99B3Gzi",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of confirmed malaria cases in OPD",
+            "visualizations": [
+              {
+                "id": "JvmOoQmigMn",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of pregnant women receiving IPTp2 during ANC attendances",
+            "visualizations": [
+              {
+                "id": "AavNHhuIOdq",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Malaria test rate among pregnant women during ANC visit",
+            "visualizations": [
+              {
+                "id": "CD4IDNjamqs",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of pregnant women who received at least 2 doses of IPT during ANC visit",
+            "visualizations": [
+              {
+                "id": "rXc6IXJ810g",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Malaria Death vs Malaria Incidence",
+            "visualizations": [
+              {
+                "axes": [
+                  {
+                    "id": "hdZmHP3c6D4",
+                    "name": "Number of all malaria deaths",
+                    "type": "COLUMN"
+                  },
+                  {
+                    "id": "HCvMNSV7mCZ",
+                    "name": "Incidence of Malaria Deaths per 100,000 Population",
+                    "type": "COLUMN"
+                  }
+                ],
+                "id": "olyMQ3sxBiQ",
+                "span": 12,
+                "type": "MULTI_CHART"
+              }
+            ]
+          },
+          {
+            "label": "Malaria Tests to OPD Attendance Ratio",
+            "visualizations": [
+              {
+                "id": "VoGjxHSZl5b",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "description": "Long  description of Nutrition here",
+        "label": "Nutrition",
+        "shortDescription": "Short description of Nutrition here",
+        "subGroups": [
+          {
+            "label": "Children under 6 months on exclusive breastfeeding",
+            "visualizations": [
+              {
+                "id": "HSSMwsXW95M",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Proportion of new born alive with birth weight <2.5kg",
+            "visualizations": [
+              {
+                "id": "uoeB0uI14d6",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Children under 5 years of age who are  underweight (WAZ <-2 and >=-3, and WAZ<-3)",
+            "visualizations": [
+              {
+                "id": "pRP0bIuxDsM",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Children under 5 years of age who are moderate underweight (WAZ <-2 and >=-3)",
+            "visualizations": [
+              {
+                "id": "HfnMc8KN88r",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          },
+          {
+            "label": "Children under 5 year of age who are severe underweight(WAZ<-3)",
+            "visualizations": [
+              {
+                "id": "yU3NHmyAvby",
+                "span": 12,
+                "type": "CHART"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "id": "service",
+    "title": "Service Availability"
+  }
+]
